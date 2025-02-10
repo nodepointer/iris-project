@@ -33,4 +33,4 @@
 
         - name: Deploy to environment
           run: |
-            echo: "Could deploy model somwhere if we wanted."
+            echo "Could deploy model somwhere if we wanted."
